@@ -33,4 +33,5 @@ Always looking for the next challenge to grow my skills, please feel free to rea
 
 ## Footer Configurations
 [params.footer]
+  copyright = "© 2024 Aditya Goel"
   poweredBy = false
