@@ -10,7 +10,7 @@ title = "Aditya Goel"
 
 ## Profile Configurations
 [params.profile]
-  portrait = "/images/try.jpg"
+  portrait = "images/try.jpg"
   firstname = "Aditya"
   lastname = "Goel"
   title = "Software Engineer and ML Researcher"
