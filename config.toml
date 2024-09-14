@@ -29,7 +29,7 @@ Always looking for the next challenge to grow my skills, please feel free to rea
 
 [params.actions.resume]
   name = "See my Resume"
-  url = "./adityagoel.pdf"
+  url = "./resume.pdf"
 
 ## Footer Configurations
 [params.footer]
