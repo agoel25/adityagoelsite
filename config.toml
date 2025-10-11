@@ -14,9 +14,9 @@ title = "Aditya Goel"
   firstname = "Aditya"
   lastname = "Goel"
   title = "Software Engineer and ML Researcher"
-  bio = """A Computer Science student and International Scholar at [**UBC**](https://www.cs.ubc.ca/), with a proven track-record in software engineering and academics.
+  bio = """A Computer Science student and International Scholar at [**UBC**](https://www.cs.ubc.ca/), with a proven track-record in software engineering, infrastructure, and machine learning.
 
-Interned as a software engineer at [**Electronic Arts**](https://www.ea.com/) and [**Rivian**](https://rivian.com/). Other experiences include building a [**HFT order matching system**](https://github.com/agoel25/quantaTrader) in C++ and my own [**GPT model**](https://github.com/agoel25/myGPT) in PyTorch from scratch, **open source contributions**, and teaching the [**algorithms and data structures**](https://canvas.ubc.ca/courses/83405) course at UBC.
+Interned as a software engineer at, [**Shopify**](https://www.shopify.com/) [**Electronic Arts**](https://www.ea.com/) and [**Rivian**](https://rivian.com/). Other experiences include building a [**HFT order matching system**](https://github.com/agoel25/quantaTrader) in C++ and my own [**GPT model**](https://github.com/agoel25/myGPT) in PyTorch from scratch, open source contributions, and teaching the [algorithms and data structures](https://canvas.ubc.ca/courses/83405) course at UBC.
 
 Always looking for the next challenge to grow my skills, please feel free to reach out! 
   """
@@ -33,5 +33,5 @@ Always looking for the next challenge to grow my skills, please feel free to rea
 
 ## Footer Configurations
 [params.footer]
-  copyright = "© 2024 Aditya Goel"
+  copyright = "© 2025 Aditya Goel"
   poweredBy = false
