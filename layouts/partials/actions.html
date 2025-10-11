@@ -1,0 +1,13 @@
+{{ with .Site.Params.actions }}
+<section class="actions">
+  {{ range . }}
+    {{ $raw := .url }}
+    {{ $isExternal := or (hasPrefix $raw "http://") (hasPrefix $raw "https://") (hasPrefix $raw "mailto:") (hasPrefix $raw "tel:") }}
+    {{ $href := $raw }}
+    {{ if not $isExternal }}
+      {{ $href = absURL $raw }}
+    {{ end }}
+    <a class="action" href="{{ $href }}"{{ if $isExternal }} target="_blank" rel="noopener"{{ end }}>{{ .name }}</a>
+  {{ end }}
+</section>
+{{ end }}
