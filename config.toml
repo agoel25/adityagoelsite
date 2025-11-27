@@ -27,9 +27,9 @@ Always looking for the next challenge to grow my skills, please feel free to rea
   github = "agoel25"
   linkedin = "agoel25"
 
-[params.actions.resume]
-  name = "See my Resume"
-  url = "./resume.pdf"
+# [params.actions.resume]
+#   name = "See my Resume"
+#   url = "./resume.pdf"
 
 ## Footer Configurations
 [params.footer]
